@@ -52,4 +52,4 @@ Hoje, Lucas dedica parte de seu tempo livre para mentorar jovens talentosos que,
 A história de Lucas não é apenas um testemunho de sua jornada pessoal, mas também uma inspiração para todos que enfrentam adversidades em busca de seus próprios caminhos de sucesso e realização.
 
 
-![OIG3 QxDP8](https://github.com/user-attachments/assets/3ce1a426-919c-4b97-82d2-940ee5afb1f3.png)
+![OIG3 QxDP8](https://github.com/user-attachments/assets/3ce1a426-919c-4b97-82d2-940ee5afb1f3)
