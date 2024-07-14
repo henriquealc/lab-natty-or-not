@@ -51,10 +51,5 @@ Hoje, Lucas dedica parte de seu tempo livre para mentorar jovens talentosos que,
 
 A história de Lucas não é apenas um testemunho de sua jornada pessoal, mas também uma inspiração para todos que enfrentam adversidades em busca de seus próprios caminhos de sucesso e realização.
 
-![OIG3 QxDP8](https://github.com/user-attachments/assets/b4440243-81df-4842-90bd-1bdfc9e5b28a)
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
+![OIG3 QxDP8](https://github.com/user-attachments/assets/3ce1a426-919c-4b97-82d2-940ee5afb1f3)
